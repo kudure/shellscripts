@@ -4,4 +4,4 @@ echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
 echo "This is Gurunath Kudure"
-echo "I am learning Jenkins"
+
